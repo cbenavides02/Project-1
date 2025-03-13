@@ -1,3 +1,5 @@
+Cristobal Benavides
+
 # Project 1: Bitcoin Mining with Apache Spark
 
 
